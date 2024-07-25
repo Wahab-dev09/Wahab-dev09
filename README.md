@@ -1,2 +1,2 @@
-![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmOTI0bHM4enkybW0yb3RsaG82bnNneXZ2anA3MDZjamtsanRtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![Banner](https://github.com/user-attachments/assets/e0c48e18-8477-4e2b-b3e4-934d8611960e)
 # Hi there I'm Wahab
