@@ -15,7 +15,7 @@
 
 - 💬 Ask me about <big>**HTML, CSS, JavaScript, React**</big>
 
-- 📫 How to reach me : **wahabzsec@gmail.com**
+- 📫 How to reach me : **wahabzafar.dev@gmail.com**
 
 - ⚡ Fun fact **I think I’m pretty good at coding 😎**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left"><big>Languages and Tools:</big></h3>
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,git,github,vscode" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,git,github,vscode,redux," /></a>
 <br>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahab-dev09&show_icons=true&locale=en&layout=compact&theme=react" alt="wahab-dev09" /></p>
