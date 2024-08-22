@@ -23,7 +23,7 @@
 
 <h3 align="left"><big>Languages and Tools:</big></h3>
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,git,github,vscode,redux," /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,git,github,vscode,redux,figma" /></a>
 <br>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahab-dev09&show_icons=true&locale=en&layout=compact&theme=react" alt="wahab-dev09" /></p>
